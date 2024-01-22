@@ -55,7 +55,6 @@
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="javascript"
           width="35" height="35" /></a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="" width="40">
-      <img src="https://www.chartjs.org/media/logo-title.svg" alt="" width="40">
       <br>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React JS" width="35"
@@ -66,7 +65,6 @@
       <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
           src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"
           alt="Angular" width="35" height="35" /> </a>
-      <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">  <img width="35" height="35" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" title="Vite"/> </a>
     </td>
       <td align="center">
         <a href="https://www.php.net/" target="_blank" rel="noreferrer">
@@ -111,14 +109,10 @@
       <td align="center">
         <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"
           alt="Intellij" width="40">
-        <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png"
-          alt="Android Studio" width="40">
         <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"
           alt="Visual Studio Code" width="40">
         <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"
           alt="Jupyter" width="40">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg"
-          alt="php storm" width="40">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"
           alt="Postman" width="40">
       </td>
@@ -140,8 +134,6 @@
             alt="Java" title="Java" />
         <img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"
             alt="C" title="C" />
-        <img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"
-            alt="C++" title="C++" />
         <img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"
             alt="C#" title="C#" />
         <img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"
