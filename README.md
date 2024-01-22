@@ -1,10 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Mohamed El haddad</h1>
 <h3 align="center">A full stack developer</h3>
 <img allign="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 💬 Ask me about **Java, React and Python.**
+- 💬 Ask me about *Java, React and Python.*
 
-- 📫 How to reach me **mohamed.elhaddad33@etu.uae.ac.ma**
+- 📫 How to reach me *mohamed.elhaddad33@etu.uae.ac.ma*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
