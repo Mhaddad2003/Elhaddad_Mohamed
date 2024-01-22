@@ -86,13 +86,6 @@
           <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"
             alt="MySQL" width="40" height="40" />
         </a>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png"
-            alt="Firebase" width="40" height="40" />
-        </a>
-        <a href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
-        </a>
         <a href="https://www.vectorlogo.zone/logos/sqlite/mongodb-icon.svg" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" title="MongoDB" />
         </a>
